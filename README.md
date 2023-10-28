@@ -1,5 +1,5 @@
 # Go to this link to watch the website
-https://send-crypt-web.vercel.app/
+https://vishnu-send-crypt-web.vercel.app/
 
 # Getting Started with Create React App
 
